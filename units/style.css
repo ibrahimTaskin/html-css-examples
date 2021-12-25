@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+.navbar {
+    background: burlywood;
+    height: 3rem;
+    color: orangered;
+    font-size: 2rem;
+}
+.banner {
+    height: calc(100vh - 3rem);
+    background-color: blueviolet; /* 100vh - navbarHeight */
+}
+.example{
+    background: green;
+    width: 20rem;
+    height: 25rem;
+    overflow: hidden;
+    overflow : scroll;
+}
