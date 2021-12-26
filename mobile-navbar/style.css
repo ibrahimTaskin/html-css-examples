@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* padding override inside- dışarıya taşmadan içeriyi ezer. */
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+ul li a{
+    background: #f123d2;
+    color: black;
+    text-decoration: none;
+    letter-spacing: 5px;
+    display: block; /* block haline getir */
+    padding: 10px;
+    margin: 1px;
+
+}
