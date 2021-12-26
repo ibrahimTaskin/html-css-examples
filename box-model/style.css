@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+h1,
+p {
+    color: white;
+
+}
+
+h1 {
+    background: red;
+    padding: 10px;
+    margin: 3rem;
+    border: 1rem dotted rgba(214, 255, 235, 0.9);
+    border-radius: 15px;
+
+}
+
+p{
+    background: blue;
+    border: 1rem dashed rgba(214, 255, 235, 0.9);
+    margin: 3rem;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: -70px;
+    /* padding: 10px 60px; top/bottom left/right */
+}
